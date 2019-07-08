@@ -1,0 +1,27 @@
+#main {
+    background-color: #e6e6e6;
+    margin: 0.25em;
+    text-align: center;
+
+}
+
+#img-div {
+    background-color: white;
+    margin: 1em;
+}
+
+#image {
+    max-width: 100%;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+p {
+    margin: 1em;
+}
+
+#tribute-info p {
+    text-align: left;
+}
